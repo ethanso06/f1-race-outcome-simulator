@@ -1,0 +1,16 @@
+# FastF1 raw cache - large, regenerable
+f1_data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
